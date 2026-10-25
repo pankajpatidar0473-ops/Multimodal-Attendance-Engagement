@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+attendance.db
+*.mp4
+*.mov
+*.avi
+*.mkv
+.DS_Store
